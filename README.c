@@ -4,7 +4,7 @@
 
 struct student{
 int rollnumber;
-char name[100];
+char name[150];
 float cgpa;
 char gender;
 struct student* next;
