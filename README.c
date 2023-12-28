@@ -60,5 +60,5 @@ void findStudentByRollNumber(struct Student*head,int rollNumber) {
     }
     printf("Student with roll number %d not found.\n", rollNumber);
 }
-rtfyt
+
 
